@@ -1,24 +1,22 @@
 import React from "react";
-import Navbar from "../../../components/Layouts/Navbar";
-import PageBanner from "../../../components/Common/PageBanner";
-import ServicesStyleFour from "../../../components/Services/ServicesStyleFour";
-import MakeYourBusiness from "../../../components/Common/MakeYourBusiness";
-import Footer from "../../../components/Layouts/Footer";
+import Navbar from "../../components/Layouts/Navbar";
+import PageBanner from "../../components/Common/PageBanner";
+import ServicesStyleThree from "../../components/Services/ServicesStyleThree";
+import Footer from "../../components/Layouts/Footer";
 
-export default function Services4Page() {
+export default function Services3Page() {
   return (
     <>
       <Navbar />
 
       <PageBanner
-        pageTitle="Services Style Four"
+        pageTitle="Services Style Three"
         homePageUrl="/"
         homePageText="Home"
-        activePageText="Services Style Four"
+        activePageText="Services Style Three"
       />
-      <ServicesStyleFour />
 
-      <MakeYourBusiness />
+      <ServicesStyleThree />
 
       <Footer />
     </>

@@ -12,49 +12,49 @@ import shapeImg6 from "../../public/images/shape/services-shape/6.png";
 const servicesData = [
   {
     iconName: "flaticon-chip",
-    title: "Robotics & Drones",
+    title: "Mobile App Development",
     shortText:
-      "Lorem consectetur ipsum dolor sit amet, adipiscing elit, do eiusmod tempor incididunt sed.",
+      "Native and hybrid mobile applications for iOS and Android platforms, delivering seamless user experiences and robust functionality.",
     viewDetails: "/services/service-details/",
     aosDelay: "100",
   },
   {
     iconName: "flaticon-vr",
-    title: "Virtually Reality",
+    title: "XR, AR & VR Experiences",
     shortText:
-      "Lorem consectetur ipsum dolor sit amet, adipiscing elit, do eiusmod tempor incididunt sed.",
+      "Immersive extended reality, augmented reality, and virtual reality solutions that transform how users interact with digital content.",
     viewDetails: "/services/service-details/",
     aosDelay: "200",
   },
   {
     iconName: "flaticon-blockchain",
-    title: "Blockchain Project",
+    title: "Cloud Integration & Backend",
     shortText:
-      "Lorem consectetur ipsum dolor sit amet, adipiscing elit, do eiusmod tempor incididunt sed.",
+      "Scalable cloud infrastructure and backend engineering solutions with seamless API integration and data management.",
     viewDetails: "/services/service-details/",
     aosDelay: "300",
   },
   {
     iconName: "flaticon-target",
-    title: "Image Processing",
+    title: "AI-Powered Solutions",
     shortText:
-      "Lorem consectetur ipsum dolor sit amet, adipiscing elit, do eiusmod tempor incididunt sed.",
+      "Intelligent automation, machine learning models, and AI-driven platforms that optimize business processes and decision-making.",
     viewDetails: "/services/service-details/",
     aosDelay: "400",
   },
   {
     iconName: "flaticon-choice",
-    title: "Order Management",
+    title: "Game Development",
     shortText:
-      "Lorem consectetur ipsum dolor sit amet, adipiscing elit, do eiusmod tempor incididunt sed.",
+      "Unity and Unreal Engine game development for mobile, PC, and console platforms with engaging gameplay and stunning visuals.",
     viewDetails: "/services/service-details/",
     aosDelay: "500",
   },
   {
     iconName: "flaticon-deep-learning",
-    title: "Machine Learning",
+    title: "Enterprise Software",
     shortText:
-      "Lorem consectetur ipsum dolor sit amet, adipiscing elit, do eiusmod tempor incididunt sed.",
+      "Custom web applications and enterprise systems built with modern technology stacks for scalability and performance.",
     viewDetails: "/services/service-details/",
     aosDelay: "600",
   },
@@ -66,12 +66,12 @@ const Services = () => {
       <div className="offer-area pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <span>Services</span>
-            <h2>Our Professional Services For You</h2>
+            <span>Our Specialties</span>
+            <h2>Comprehensive Technology Solutions for Modern Businesses</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure
-              architecto quaerat eaque sapiente accusantium ad ut explicabo
-              consequuntur fuga quidem? Sint.
+              From concept to deployment, we deliver robust, intuitive, and high-performance solutions 
+              built with precision, scalability, and long-term value. Our expertise spans across multiple 
+              technology domains to meet diverse business needs.
             </p>
           </div>
 

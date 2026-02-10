@@ -1,93 +1,46 @@
-// import Navbar from "../components/Layouts/Navbar";
-// import MainBanner from "../components/HomeOne/MainBanner";
-// import Features from "../components/HomeOne/Features";
-// import About from "../components/HomeOne/About";
-// import WhyChooseUs from "../components/HomeOne/WhyChooseUs";
-// import Services from "../components/HomeOne/Services";
-// import MakeYourBusiness from "../components/Common/MakeYourBusiness";
-// import WhatWeOffer from "../components/HomeOne/WhatWeOffer";
-// import Testimonials from "../components/Common/Testimonials";
-// import News from "../components/Common/News";
-// import Footer from "../components/Layouts/Footer";
-
-// export default function IndexPage() {
-//   return (
-//     <>
-//       <Navbar />
-
-//       <MainBanner />
-
-//       <Features />
-
-//       <About />
-
-//       <WhyChooseUs />
-
-//       <Services />
-
-//       <MakeYourBusiness />
-
-//       <WhatWeOffer />
-
-//       <Testimonials />
-
-//       <News />
-
-//       <Footer />
-//     </>
-//   );
-// }
 import React from "react";
 import Navbar from "../components/Layouts/Navbar";
-import MainBanner from "../components/HomeFour/MainBanner";
-import PartnerSliderTwo from "../components/Common/PartnerSliderTwo";
-import About from "../components/HomeFour/About";
-import Services from "../components/HomeFour/Services";
-import WhyChooseUs from "../components/HomeFour/WhyChooseUs";
-import MakeYourBusiness from "../components/HomeFour/MakeYourBusiness";
-import WhatWeOffer from "../components/HomeFour/WhatWeOffer";
-import Team from "../components/Common/Team";
-import CaseStudies from "../components/HomeFour/CaseStudies";
+import MainBanner from "../components/HomeFive/MainBanner";
+import PartnerSlider from "../components/Common/PartnerSlider";
+import About from "../components/HomeFive/About";
+import WhyChooseUs from "../components/HomeFive/WhyChooseUs";
+import Services from "../components/HomeFive/Services";
+import MakeYourBusiness from "../components/Common/MakeYourBusiness";
+import WhatWeOffer from "../components/HomeFive/WhatWeOffer";
+import CaseStudies from "../components/HomeFive/CaseStudies";
 import Testimonials from "../components/Common/Testimonials";
-import Faq from "../components/HomeFour/Faq";
-import Newsletter from "../components/Common/Newsletter";
-import News from "../components/HomeFour/News";
+import Faq from "../components/HomeFive/Faq";
+import News from "../components/Common/News";
 import Footer from "../components/Layouts/Footer";
 
-export default function Index4Page() {
+export default function Index5Page() {
   return (
     <>
-      <div className="body-bg-color">
-        <Navbar />
+      <Navbar />
 
-        <MainBanner />
+      <MainBanner />
 
-        <PartnerSliderTwo />
+      <PartnerSlider />
 
-        <About />
+      <About />
 
-        <Services />
+      <WhyChooseUs />
 
-        <WhyChooseUs />
+      <Services />
 
-        <MakeYourBusiness />
+      <MakeYourBusiness />
 
-        <WhatWeOffer />
+      <WhatWeOffer />
 
-        <CaseStudies />
+      <CaseStudies />
 
-        <Team />
+      <Testimonials />
 
-        <Testimonials />
+      <Faq />
 
-        <Faq />
+      <News />
 
-        <Newsletter />
-
-        <News />
-
-        <Footer />
-      </div>
+      <Footer />
     </>
   );
 }

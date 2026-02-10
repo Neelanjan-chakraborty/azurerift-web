@@ -56,7 +56,7 @@ const MainBanner = () => {
                 src="/images/robot.webp"
                 alt="Robot Animation"
                 className="w-full h-auto pr-20"
-                style={{ maxWidth: '500px', maxHeight: '500px' ,marginLeft : '80px'}}
+
               />
             </div>
           </div>

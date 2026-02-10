@@ -10,16 +10,15 @@ const Manufacturing = () => {
       <div className="row  align-items-center">
         <div className="col-lg-6">
           <div className="industries-content">
-            <h3>Manufacturing</h3>
+            <h3>Enterprise Software</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est
-              atque recusandae esse alias reprehenderit.
+              Custom web applications and enterprise systems built with modern technology stacks. 
+              Scalable architecture, robust security, and seamless integration with existing systems.
             </p>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea
-              doloribus molestias illo ad aperiam quo natus voluptatum, eos
-              laboriosam vel deserunt? Ab rerum eaque aperiam sequi dolore minus
-              itaque eos!
+              From MVP development for startups to complex enterprise platforms, we deliver solutions 
+              that are reliable, efficient, and designed for long-term growth. UI/UX strategy, product 
+              design, and ongoing technical consulting included.
             </p>
 
             <div className="row">
@@ -27,15 +26,14 @@ const Manufacturing = () => {
                 <ul className="industries-item">
                   <li>
                     <i className="flaticon-checked"></i>
-                    Opportunities
+                    Custom Platforms
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Creating
-                  </li>
-                  <li>
+                    MVP Development
+                  </li>\n                  <li>
                     <i className="flaticon-checked"></i>
-                    Industries
+                    UI/UX Design
                   </li>
                 </ul>
               </div>
@@ -44,15 +42,15 @@ const Manufacturing = () => {
                 <ul className="industries-item">
                   <li>
                     <i className="flaticon-checked"></i>
-                    Security
+                    System Integration
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Highest
+                    Security First
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Priority
+                    Technical Support
                   </li>
                 </ul>
               </div>

@@ -16,7 +16,7 @@ const Faq = () => {
       <div className="faq-area pt-100">
         <div className="container">
           <div className="section-title">
-            <span>FAQ,s</span>
+            <span>FAQ's</span>
             <h2>Frequently Asked Questions</h2>
           </div>
 
@@ -27,17 +27,16 @@ const Faq = () => {
                   <AccordionItem uuid="a">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        What Are The Business Advisory Company?
+                        What Technologies Does AzureRift Specialize In?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                        Risus commodo viverra maecenas accumsan lacus vel
-                        facilisis.
+                        We work across modern technology stacks including mobile development (iOS/Android), 
+                        AI and machine learning, cloud platforms (AWS, Azure, GCP), game engines (Unity, Unreal), 
+                        XR/AR/VR technologies, and full-stack web development. Our multi-domain expertise allows 
+                        us to deliver comprehensive digital solutions.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -45,17 +44,16 @@ const Faq = () => {
                   <AccordionItem uuid="b">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Research Is What Makes An Effective Business Plan?
+                        How Does AzureRift Approach Project Development?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                        Risus commodo viverra maecenas accumsan lacus vel
-                        facilisis.
+                        Our development approach emphasizes quality, transparency, and continuous innovation. 
+                        We start by understanding your goals, then design and deliver solutions with precision 
+                        and scalability. From concept to deployment, we ensure clear communication, regular updates, 
+                        and thorough testing for reliable, high-performance results.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -63,16 +61,15 @@ const Faq = () => {
                   <AccordionItem uuid="c">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        How Achieving Small Business Success?
+                        Can AzureRift Help With MVP Development for Startups?
                       </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                        Risus commodo viverra maecenas accumsan lacus vel
-                        facilisis.
+                        Absolutely! We specialize in MVP development for startups, helping you validate ideas quickly 
+                        and cost-effectively. Our team builds scalable prototypes that can evolve into full products, 
+                        allowing you to test market fit and iterate based on real user feedback while maintaining 
+                        technical excellence.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -80,16 +77,15 @@ const Faq = () => {
                   <AccordionItem uuid="d">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Why Business Planing Is Important?
+                        What Makes AzureRift Different From Other Development Companies?
                       </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                        Risus commodo viverra maecenas accumsan lacus vel
-                        facilisis.
+                        We blend engineering excellence with creative problem-solving across multiple technology 
+                        domains. Unlike single-focus agencies, we offer expertise in mobile, web, AI, cloud, games, 
+                        and immersive XR/AR/VR - all under one roof. Our commitment to quality, transparency, and 
+                        delivering future-proof solutions sets us apart.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -97,16 +93,14 @@ const Faq = () => {
                   <AccordionItem uuid="e">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        How Do You Startup?
+                        Do You Provide Ongoing Support After Project Delivery?
                       </AccordionItemButton>
                     </AccordionItemHeading>
                     <AccordionItemPanel>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Quis ipsum suspendisse ultrices gravida.
-                        Risus commodo viverra maecenas accumsan lacus vel
-                        facilisis.
+                        Yes! We offer comprehensive ongoing support and technical consulting to ensure your solutions 
+                        remain optimized, secure, and up-to-date. Whether you need maintenance, feature enhancements, 
+                        or technical guidance, our team is here to support your long-term success.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>

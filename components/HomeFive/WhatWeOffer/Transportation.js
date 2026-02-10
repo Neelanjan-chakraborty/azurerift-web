@@ -10,16 +10,14 @@ const Transportation = () => {
       <div className="row align-items-center">
         <div className="col-lg-6">
           <div className="industries-content">
-            <h3>Transportation</h3>
+            <h3>AI & Cloud Solutions</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est
-              atque recusandae esse alias reprehenderit.
+              AI-powered platforms, machine learning models, and intelligent automation that optimize 
+              business processes, enhance decision-making, and unlock new capabilities.
             </p>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea
-              doloribus molestias illo ad aperiam quo natus voluptatum, eos
-              laboriosam vel deserunt? Ab rerum eaque aperiam sequi dolore minus
-              itaque eos!
+              Cloud integration with AWS, Azure, and GCP, scalable backend architecture, and robust 
+              API development for seamless data flow and secure infrastructure.
             </p>
 
             <div className="row">
@@ -27,15 +25,15 @@ const Transportation = () => {
                 <ul className="industries-item">
                   <li>
                     <i className="flaticon-checked"></i>
-                    Security
+                    Machine Learning
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Highest
+                    AI Automation
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Priority
+                    Data Analytics
                   </li>
                 </ul>
               </div>
@@ -44,15 +42,15 @@ const Transportation = () => {
                 <ul className="industries-item">
                   <li>
                     <i className="flaticon-checked"></i>
-                    Opportunities
+                    Cloud Platforms
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Creating
+                    Backend Engineering
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Industries
+                    API Development
                   </li>
                 </ul>
               </div>

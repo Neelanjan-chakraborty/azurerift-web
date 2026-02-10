@@ -6,12 +6,12 @@ import chooseImg from "../../public/images/choose-img.png";
 const WhyChooseUs = () => {
   return (
     <>
-      <section className="choose-ue-area azure-theme pt-100 pb-100">
+      <section className="choose-ue-area pt-100 pb-100">
         <div className="container">
           <div className="row">
             <div className="col-8">
               <div className="choose-title home-four-section-title">
-                <span className="azure-highlight">Why Choose Us</span>
+                <span>Why Choose Us</span>
                 <h2>
                   Accelerating Innovation with Azure-Powered Solutions
                 </h2>
@@ -22,7 +22,7 @@ const WhyChooseUs = () => {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <div
-                className="choose-card azure-card rounded-3"
+                className="choose-card rounded-3"
                 data-aos="fade-in"
                 data-aos-duration="1200"
                 data-aos-delay="200"
@@ -37,7 +37,7 @@ const WhyChooseUs = () => {
               </div>
 
               <div
-                className="choose-card azure-card rounded-3"
+                className="choose-card rounded-3"
                 data-aos="fade-in"
                 data-aos-duration="1200"
                 data-aos-delay="300"
@@ -52,7 +52,7 @@ const WhyChooseUs = () => {
               </div>
 
               <div
-                className="choose-card azure-card rounded-3"
+                className="choose-card rounded-3"
                 data-aos="fade-in"
                 data-aos-duration="1200"
                 data-aos-delay="400"
@@ -69,7 +69,7 @@ const WhyChooseUs = () => {
 
             <div className="col-lg-6">
               <div
-                className="choose-img azure-shadow"
+                className="choose-img"
                 data-aos="fade-in"
                 data-aos-duration="1200"
                 data-aos-delay="800"

@@ -6,29 +6,53 @@ const ServiceSidebar = () => {
     <>
       <div className="service-sidebar-area">
         <div className="service-list">
-          <h3 className="service-details-title">Facilities</h3>
+          <h3 className="service-details-title">Our Services</h3>
           <ul>
             <li>
-              <Link href="/services/service-details/">
-                Technology
+              <Link href="/services/mobile-app-development">
+                Mobile App Development
                 <i className="bx bx-check"></i>
               </Link>
             </li>
             <li>
-              <Link href="/services/service-details/">
-                Tips
+              <Link href="/services/web-application-development">
+                Web Application Development
                 <i className="bx bx-check"></i>
               </Link>
             </li>
             <li>
-              <Link href="/services/service-details/">
-                AI & IT
+              <Link href="/services/ai-powered-solutions">
+                AI-Powered Solutions
                 <i className="bx bx-check"></i>
               </Link>
             </li>
             <li>
-              <Link href="/services/service-details/">
-                Solution
+              <Link href="/services/cloud-integration-backend">
+                Cloud Integration & Backend
+                <i className="bx bx-check"></i>
+              </Link>
+            </li>
+            <li>
+              <Link href="/services/ui-ux-design-strategy">
+                UI/UX Design & Strategy
+                <i className="bx bx-check"></i>
+              </Link>
+            </li>
+            <li>
+              <Link href="/services/game-development">
+                Game Development
+                <i className="bx bx-check"></i>
+              </Link>
+            </li>
+            <li>
+              <Link href="/services/xr-ar-vr-experiences">
+                XR/AR/VR Experiences
+                <i className="bx bx-check"></i>
+              </Link>
+            </li>
+            <li>
+              <Link href="/services/enterprise-software">
+                Enterprise Software
                 <i className="bx bx-check"></i>
               </Link>
             </li>
@@ -36,52 +60,52 @@ const ServiceSidebar = () => {
         </div>
 
         <div className="service-list">
-          <h3 className="service-details-title">Contact Info</h3>
+          <h3 className="service-details-title">Contact AzureRift</h3>
           <ul>
             <li>
-              +800 603 6035
+              +91 8617352997
               <i className="bx bx-phone-call bx-rotate-270"></i>
             </li>
             <li>
-              hello@jumpx.com
+              info@azurerift.com
               <i className="bx bx-envelope"></i>
             </li>
             <li>
-              123, Western Road, Australia
+              Kolkata, West Bengal, India
               <i className="bx bx-location-plus"></i>
             </li>
             <li>
-              9:00 AM – 8:00 PM
+              9:00 AM – 8:00 PM IST
               <i className="bx bx-time"></i>
             </li>
           </ul>
         </div>
 
         <div className="service-list">
-          <h3 className="service-details-title">Download Brochures</h3>
+          <h3 className="service-details-title">Get Started</h3>
           <ul>
             <li>
-              <Link href="#">
-                PDF File (1)
-                <i className="bx bxs-cloud-download"></i>
+              <Link href="/contact">
+                Free Consultation
+                <i className="bx bx-conversation"></i>
               </Link>
             </li>
             <li>
-              <Link href="#">
-                PDF File (2)
-                <i className="bx bxs-cloud-download"></i>
+              <Link href="/about">
+                About AzureRift
+                <i className="bx bx-info-circle"></i>
               </Link>
             </li>
             <li>
-              <Link href="#">
-                PDF File (3)
-                <i className="bx bxs-cloud-download"></i>
+              <Link href="/portfolio">
+                View Portfolio
+                <i className="bx bx-folder-open"></i>
               </Link>
             </li>
             <li>
-              <Link href="#">
-                PDF File (4)
-                <i className="bx bxs-cloud-download"></i>
+              <Link href="/pricing">
+                Service Pricing
+                <i className="bx bx-dollar-circle"></i>
               </Link>
             </li>
           </ul>

@@ -1,7 +1,9 @@
 import React from "react";
 import Navbar from "../../components/Layouts/Navbar";
 import PageBanner from "../../components/Common/PageBanner";
-import ServicesStyleOne from "../../components/Services/ServicesStyleOne";
+import ServicesStyleTwo from "../../components/Services/ServicesStyleTwo";
+import MakeYourBusiness from "../../components/Common/MakeYourBusiness";
+import WhatWeOffer from "../../components/Services/WhatWeOffer";
 import Footer from "../../components/Layouts/Footer";
 
 export default function ServicesPage() {
@@ -10,13 +12,17 @@ export default function ServicesPage() {
       <Navbar />
 
       <PageBanner
-        pageTitle="Services"
+        pageTitle="Our Technology Services | AzureRift Technologies"
         homePageUrl="/"
         homePageText="Home"
         activePageText="Services"
       />
 
-      <ServicesStyleOne />
+      <ServicesStyleTwo />
+
+      <MakeYourBusiness />
+
+      <WhatWeOffer />
 
       <Footer />
     </>

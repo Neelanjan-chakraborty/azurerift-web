@@ -15,8 +15,8 @@ const CaseStudies = () => {
       <div className="case-area pb-100">
         <div className="container">
           <div className="section-title">
-            <span>Case</span>
-            <h2>Our Recent Case Studies</h2>
+            <span>Portfolio</span>
+            <h2>Featured Projects & Solutions</h2>
           </div>
 
           <Swiper
@@ -65,7 +65,7 @@ const CaseStudies = () => {
 
                 <h3>
                   <Link href="/case-studies/case-studies-details">
-                    Cognitive Architectures
+                    Enterprise Mobile App
                   </Link>
                 </h3>
               </div>
@@ -92,7 +92,7 @@ const CaseStudies = () => {
 
                 <h3>
                   <Link href="/case-studies/case-studies-details">
-                    Image Detection
+                    AI-Powered Platform
                   </Link>
                 </h3>
               </div>
@@ -119,7 +119,7 @@ const CaseStudies = () => {
 
                 <h3>
                   <Link href="/case-studies/case-studies-details">
-                    Software Liabries
+                    Immersive VR Experience
                   </Link>
                 </h3>
               </div>
@@ -146,7 +146,7 @@ const CaseStudies = () => {
 
                 <h3>
                   <Link href="/case-studies/case-studies-details">
-                    Architectures Liabries
+                    Unity Game Development
                   </Link>
                 </h3>
               </div>

@@ -6,14 +6,14 @@ const WhyChooseUs = () => {
       <section className="choose-ue-area pt-100 pb-70">
         <div className="container">
           <div className="section-title">
-            <span>Why Choose Us</span>
+            <span>Why Choose AzureRift</span>
             <h2>
-              Our Platform Takes Away The Hard Process Of Creating Your Website
+              Engineering Excellence Combined With Strategic Innovation
             </h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel nisi
-              rem quo itaque minus dolorem ratione vero, quisquam reiciendis
-              quia atque eos aspernatur.
+              We focus on understanding client goals, applying the right technologies, and delivering 
+              results with clarity and integrity. Great products emerge from strong collaboration and 
+              precision engineering.
             </p>
           </div>
 
@@ -28,10 +28,9 @@ const WhyChooseUs = () => {
                 <span>
                   01 <i className="flaticon-technical-support"></i>
                 </span>
-                <h3>Safe Security</h3>
+                <h3>Quality & Precision</h3>
                 <p>
-                  Lorem ipsum dolor sit labore amet, consectetur adipiscing
-                  elit, sed do eiusmod tempor.
+                  Every product built with precision, scalability, and long-term value. We emphasize code quality, best practices, and thorough testing.
                 </p>
               </div>
             </div>
@@ -46,10 +45,9 @@ const WhyChooseUs = () => {
                 <span>
                   02 <i className="flaticon-shield"></i>
                 </span>
-                <h3>Technical Support</h3>
+                <h3>Full-Stack Expertise</h3>
                 <p>
-                  Lorem ipsum dolor sit labore amet, consectetur adipiscing
-                  elit, sed do eiusmod tempor.
+                  From frontend to backend, cloud to AI, games to XR - our team masters modern technology stacks across all domains.
                 </p>
               </div>
             </div>
@@ -64,10 +62,9 @@ const WhyChooseUs = () => {
                 <span>
                   03 <i className="flaticon-support"></i>
                 </span>
-                <h3>Live Support</h3>
+                <h3>Transparent Process</h3>
                 <p>
-                  Lorem ipsum dolor sit labore amet, consectetur adipiscing
-                  elit, sed do eiusmod tempor.
+                  Clear communication, regular updates, and complete transparency throughout development. You're always in the loop.
                 </p>
               </div>
             </div>
@@ -82,10 +79,9 @@ const WhyChooseUs = () => {
                 <span>
                   04 <i className="flaticon-technical-support"></i>
                 </span>
-                <h3>Free Try </h3>
+                <h3>Scalable Solutions</h3>
                 <p>
-                  Lorem ipsum dolor sit labore amet, consectetur adipiscing
-                  elit, sed do eiusmod tempor.
+                  Future-proof architecture designed to grow with your business. Reliable, efficient, and built for long-term success.
                 </p>
               </div>
             </div>
@@ -100,10 +96,9 @@ const WhyChooseUs = () => {
                 <span>
                   05 <i className="flaticon-shield"></i>
                 </span>
-                <h3>Advanced Tchnology</h3>
+                <h3>Innovation Focus</h3>
                 <p>
-                  Lorem ipsum dolor sit labore amet, consectetur adipiscing
-                  elit, sed do eiusmod tempor.
+                  Continuous innovation and staying ahead of technology trends. We apply cutting-edge solutions to solve real-world challenges.
                 </p>
               </div>
             </div>
@@ -118,10 +113,9 @@ const WhyChooseUs = () => {
                 <span>
                   06 <i className="flaticon-support"></i>
                 </span>
-                <h3>Competitive Pricing</h3>
+                <h3>Ongoing Support</h3>
                 <p>
-                  Lorem ipsum dolor sit labore amet, consectetur adipiscing
-                  elit, sed do eiusmod tempor.
+                  Comprehensive technical consulting and ongoing support to ensure your solutions remain optimized and secure.
                 </p>
               </div>
             </div>

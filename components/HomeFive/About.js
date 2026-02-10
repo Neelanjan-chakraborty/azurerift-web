@@ -18,15 +18,15 @@ const About = () => {
 
             <div className="col-lg-6">
               <div className="about-content">
-                <span>About Us</span>
+                <span>About AzureRift Technologies</span>
                 <h2>
-                  We Complete Every Project With Extra Care As Customer Need
+                  Engineering Excellence Meets Creative Problem-Solving
                 </h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                  maecenas accumsan lacus vel.
+                  AzureRift Technologies is a multi-domain technology company building intelligent, scalable, and future-ready digital solutions. We specialize in mobile and web applications, AI-driven platforms, cloud engineering, immersive technologies, and interactive experiences designed to help businesses innovate and accelerate growth.
+                </p>
+                <p>
+                  Our team blends engineering excellence with creative problem-solving. We partner with clients to design and deliver robust, intuitive, and high-performance solutions that address real-world challenges.
                 </p>
 
                 <div className="row">
@@ -34,15 +34,15 @@ const About = () => {
                     <ul>
                       <li>
                         <i className="flaticon-checked"></i>
-                        Advanced caching
+                        Mobile & Web Apps
                       </li>
                       <li>
                         <i className="flaticon-checked"></i>
-                        Unlimited applications
+                        AI-Powered Solutions
                       </li>
                       <li>
                         <i className="flaticon-checked"></i>
-                        PHP 7 ready transfer
+                        Cloud Integration
                       </li>
                     </ul>
                   </div>
@@ -51,15 +51,15 @@ const About = () => {
                     <ul>
                       <li>
                         <i className="flaticon-checked"></i>
-                        PHP ready serves
+                        Game Development
                       </li>
                       <li>
                         <i className="flaticon-checked"></i>
-                        24/7 free extra support
+                        XR/AR/VR Experiences
                       </li>
                       <li>
                         <i className="flaticon-checked"></i>
-                        Optimized stack
+                        Enterprise Software
                       </li>
                     </ul>
                   </div>

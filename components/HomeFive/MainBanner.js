@@ -27,11 +27,10 @@ const MainBanner = () => {
                 <div className="d-table-cell">
                   <div className="container">
                     <div className="jumpx-slider-text overflow-hidden one">
-                      <span>IT & AI Services</span>
-                      <h1>Secure IT Solutions For A More Secure Environment</h1>
+                      <span>Engineering Innovation</span>
+                      <h1>Building Intelligent, Scalable & Future-Ready Digital Solutions</h1>
                       <p>
-                        If we drive down the cost of transportation in space, we
-                        can do great things.
+                        From mobile apps to immersive XR experiences, we help businesses innovate and accelerate growth with cutting-edge technology.
                       </p>
 
                       <div className="slider-btn">
@@ -59,11 +58,10 @@ const MainBanner = () => {
                 <div className="d-table-cell">
                   <div className="container">
                     <div className="jumpx-slider-text overflow-hidden two">
-                      <span>IT & AI Services</span>
-                      <h1>Specialized Artificial Intelligence Startup</h1>
+                      <span>Technology Excellence</span>
+                      <h1>AI-Driven Platforms & Cloud Engineering Solutions</h1>
                       <p>
-                        If we drive down the cost of transportation in space, we
-                        can do great things.
+                        Empowering organizations with advanced digital capabilities through AI automation, cloud integration, and enterprise software.
                       </p>
 
                       <div className="slider-btn">
@@ -91,11 +89,10 @@ const MainBanner = () => {
                 <div className="d-table-cell">
                   <div className="container">
                     <div className="jumpx-slider-text overflow-hidden three">
-                      <span>IT & AI Services</span>
-                      <h1>World’s Leading Machine Learning Company</h1>
+                      <span>Immersive Technologies</span>
+                      <h1>Creating Tomorrow's Digital & Immersive Worlds Today</h1>
                       <p>
-                        If we drive down the cost of transportation in space, we
-                        can do great things.
+                        Specializing in game development, XR/AR/VR experiences, and interactive simulations that transform how people engage with technology.
                       </p>
 
                       <div className="slider-btn">

@@ -27,11 +27,11 @@ const WhatWeOffer = () => {
         <div className="container">
           <div className="section-title">
             <span>What We Offer</span>
-            <h2>Industries We Serve</h2>
+            <h2>Comprehensive Technology Solutions</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias
-              eos ea obcaecati et similique incidunt animi, sed, quos officiis
-              placeat. Id ipsa molestias.
+              From mobile applications to immersive experiences, we deliver intelligent, 
+              scalable solutions across multiple technology domains to drive innovation 
+              and business growth.
             </p>
           </div>
 
@@ -46,32 +46,32 @@ const WhatWeOffer = () => {
                   >
                     <span>
                       <i className="flaticon-machine-learning"></i>
-                      <h3>Heavy Industry</h3>
-                      <p>All kind of industry</p>
+                      <h3>Mobile & Web</h3>
+                      <p>Apps & Platforms</p>
                     </span>
                   </li>
 
                   <li onClick={(e) => openTabSection(e, "tab2")}>
                     <span>
                       <i className="flaticon-artificial-intelligence"></i>
-                      <h3>Transportation</h3>
-                      <p>All kind of industry</p>
+                      <h3>AI & Cloud</h3>
+                      <p>Intelligent Systems</p>
                     </span>
                   </li>
 
                   <li onClick={(e) => openTabSection(e, "tab3")}>
                     <span>
                       <i className="flaticon-health"></i>
-                      <h3>Health Care</h3>
-                      <p>All kind of industry</p>
+                      <h3>Games & XR</h3>
+                      <p>Immersive Experiences</p>
                     </span>
                   </li>
 
                   <li onClick={(e) => openTabSection(e, "tab4")}>
                     <span>
                       <i className="flaticon-automation"></i>
-                      <h3>Manufacturing</h3>
-                      <p>All kind of industry</p>
+                      <h3>Enterprise</h3>
+                      <p>Custom Software</p>
                     </span>
                   </li>
                 </ul>

@@ -16,16 +16,15 @@ const HealthCare = () => {
 
         <div className="col-lg-6">
           <div className="industries-content">
-            <h3>Health Care</h3>
+            <h3>Games & Immersive XR</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est
-              atque recusandae esse alias reprehenderit.
+              Unity and Unreal Engine game development for mobile, PC, and console platforms. 
+              Engaging gameplay mechanics, stunning visuals, and optimized performance.
             </p>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea
-              doloribus molestias illo ad aperiam quo natus voluptatum, eos
-              laboriosam vel deserunt? Ab rerum eaque aperiam sequi dolore minus
-              itaque eos!
+              Extended Reality (XR), Augmented Reality (AR), and Virtual Reality (VR) experiences 
+              that transform user engagement. Immersive simulations, training applications, and 
+              interactive media that push boundaries.
             </p>
 
             <div className="row">
@@ -33,15 +32,15 @@ const HealthCare = () => {
                 <ul className="industries-item">
                   <li>
                     <i className="flaticon-checked"></i>
-                    Creating
+                    Unity Development
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Consectetur
+                    Unreal Engine
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Adipisicing
+                    Mobile Games
                   </li>
                 </ul>
               </div>
@@ -50,15 +49,15 @@ const HealthCare = () => {
                 <ul className="industries-item">
                   <li>
                     <i className="flaticon-checked"></i>
-                    Artificial
+                    VR/AR/XR
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Industry
+                    Simulations
                   </li>
                   <li>
                     <i className="flaticon-checked"></i>
-                    Opportunities
+                    Interactive Media
                   </li>
                 </ul>
               </div>

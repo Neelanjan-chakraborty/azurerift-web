@@ -16,31 +16,30 @@ const HeavyIndustry = () => {
 
         <div className="col-lg-6">
           <div className="industries-content">
-            <h3>Heavy Industry</h3>
+            <h3>Mobile & Web Applications</h3>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est
-              atque recusandae esse alias reprehenderit.
+              Native iOS and Android apps, hybrid mobile solutions, and modern web applications 
+              built with cutting-edge frameworks for seamless user experiences.
             </p>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea
-              doloribus molestias illo ad aperiam quo natus voluptatum, eos
-              laboriosam vel deserunt?
+              From consumer apps to enterprise platforms, we deliver scalable, high-performance 
+              solutions with intuitive UI/UX design and robust backend infrastructure.
             </p>
 
             <div className="row">
               <div className="col-lg-6 col-sm-6">
                 <ul className="industries-item">
                   <li>
-                    <i className="flaticon-checked"></i>
-                    Opportunities
+                    <i className="flaticon-checked" />
+                    Native iOS/Android
                   </li>
                   <li>
-                    <i className="flaticon-checked"></i>
-                    Creating
+                    <i className="flaticon-checked" />
+                    Hybrid Apps
                   </li>
                   <li>
-                    <i className="flaticon-checked"></i>
-                    Industries
+                    <i className="flaticon-checked" />
+                    Progressive Web Apps
                   </li>
                 </ul>
               </div>
@@ -48,16 +47,16 @@ const HeavyIndustry = () => {
               <div className="col-lg-6 col-sm-6">
                 <ul className="industries-item">
                   <li>
-                    <i className="flaticon-checked"></i>
-                    Security
+                    <i className="flaticon-checked" />
+                    Responsive Design
                   </li>
                   <li>
-                    <i className="flaticon-checked"></i>
-                    Highest
+                    <i className="flaticon-checked" />
+                    API Integration
                   </li>
                   <li>
-                    <i className="flaticon-checked"></i>
-                    Priority
+                    <i className="flaticon-checked" />
+                    Scalable Architecture
                   </li>
                 </ul>
               </div>
