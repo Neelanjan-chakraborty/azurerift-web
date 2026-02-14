@@ -26,7 +26,7 @@ export default function About2Page() {
 
       <MakeYourBusiness />
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
       <PartnerSlider />
 

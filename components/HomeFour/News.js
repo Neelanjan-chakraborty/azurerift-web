@@ -11,7 +11,7 @@ const News = () => {
     <>
       <div className="news-area pt-100 pb-70">
         <div className="container">
-          <div className="section-title home-four-section-title">
+          {/* <div className="section-title home-four-section-title">
             <span>Latest News</span>
             <h2>Our Recent News</h2>
             <p>
@@ -19,7 +19,7 @@ const News = () => {
               is working hard to bring you the most relevant news, tips, and
               insights.
             </p>
-          </div>
+          </div> */}
 
           <div className="row justify-content-center">
             <div

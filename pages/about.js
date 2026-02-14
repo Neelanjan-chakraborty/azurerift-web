@@ -28,13 +28,13 @@ export default function AboutPage() {
 
       <MakeYourBusiness />
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
-      <TeamTwo />
+      {/* <TeamTwo /> */}
 
-      <div className="pb-50">
+      {/* <div className="pb-50">
         <Partner />
-      </div>
+      </div> */}
 
       <Footer />
     </>

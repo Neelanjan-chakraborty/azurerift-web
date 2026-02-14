@@ -11,7 +11,7 @@ const News = () => {
     <>
       <section className="news-area pt-100 pb-70">
         <div className="container">
-          <div className="section-title">
+          {/* <div className="section-title">
             <span>Latest News</span>
             <h2>Our Recent News </h2>
             <p>
@@ -19,10 +19,10 @@ const News = () => {
               ipsum fugit temporibus possimus itaque accusamus voluptatibus
               dignissimos nobis eaque.
             </p>
-          </div>
+          </div> */}
 
           <div className="row justify-content-center">
-            <div
+            {/* <div
               className="col-lg-4 col-md-6"
               data-aos="fade-up"
               data-aos-duration="1200"
@@ -70,9 +70,9 @@ const News = () => {
                   </Link>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div
+            {/* <div
               className="col-lg-4 col-md-6"
               data-aos="fade-up"
               data-aos-duration="1200"
@@ -170,7 +170,7 @@ const News = () => {
                   </Link>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </section>
