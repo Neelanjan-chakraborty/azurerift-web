@@ -11,9 +11,9 @@ const About = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-               <div className="about-img">
-                 <Image src={aboutImg} alt="Image" width={375} height={440} />
-               </div>
+              <div className="about-img">
+                <Image src={aboutImg} alt="Image" width={375} height={440} />
+              </div>
             </div>
 
             <div className="col-lg-6">
@@ -23,7 +23,7 @@ const About = () => {
                   A Multi-Domain Consultancy Firm Providing Innovative Solutions
                 </h2>
                 <p>
-                  Azure Rift is a dynamic consultancy firm offering cutting-edge solutions across various domains. We specialize in software development, AI & ML solutions, digital marketing, animation, VFX, robotics, drones, cybersecurity, and blockchain. Founded in 2018 as a startup under the SACC India Startup Accelerator, we are driven by a passion for innovation and excellence. Our founders, Nessan Irani and Neelanjan Chakraborty, have built a team that is committed to delivering results that exceed expectations.
+                  We are an IT consultancy and computer facilities management firm first—not just a development shop. We provide full-lifecycle technical assistance, from strategic planning and systems analysis to the design, implementation, and maintenance of robust IT infrastructures. We architect bespoke software, integrate complex systems and databases, and manage scalable cloud computing environments. Our expertise spans enterprise mobile applications, backend web systems, artificial intelligence, data analytics, and cybersecurity solutions. We are objective technology partners focused on engineering excellence, network integrity, and delivering future-proof solutions that meet specific business objectives.
                 </p>
 
                 <div className="row">
@@ -46,18 +46,18 @@ const About = () => {
 
                   <div className="col-lg-6 col-sm-6">
                     <ul>
-                      <li>
+                      {/* <li>
                         <i className="flaticon-checked"></i>
                         High-Quality Animation & VFX Services
-                      </li>
-                      <li>
+                      </li> */}
+                      {/* <li>
                         <i className="flaticon-checked"></i>
                         Robotics & Drone Technologies
-                      </li>
-                      <li>
+                      </li> */}
+                      {/* <li>
                         <i className="flaticon-checked"></i>
                         Robust Cybersecurity & Blockchain Solutions
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                 </div>

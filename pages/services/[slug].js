@@ -97,42 +97,42 @@ const serviceData = {
     technologies: ["Figma", "Adobe XD", "Sketch", "InVision", "Principle", "Framer", "Zeplin"],
     process: "Our design process is user-centered, starting with research and ending with tested, validated designs that provide exceptional user experiences and meet business objectives."
   },
-  "game-development": {
-    title: "Game Development",
-    subtitle: "Unity & Unreal Engine Game Creation",
-    description: "Develop engaging, high-performance games for mobile, PC, and console platforms using industry-leading engines and cutting-edge technologies.",
-    image: "/images/services-details/game-development.jpg",
-    features: [
-      "2D & 3D game development",
-      "Multi-platform game deployment",
-      "Game mechanics & physics implementation",
-      "Character design & animation",
-      "Multiplayer functionality",
-      "In-app purchases & monetization",
-      "Performance optimization",
-      "Game analytics & user retention"
-    ],
-    technologies: ["Unity", "Unreal Engine", "C#", "C++", "Blender", "Photoshop", "Firebase", "PlayFab"],
-    process: "From concept to launch, we handle all aspects of game development including design, development, testing, and post-launch support to ensure your game succeeds in the market."
-  },
-  "xr-ar-vr-experiences": {
-    title: "XR/AR/VR Experiences",
-    subtitle: "Immersive Reality Solutions",
-    description: "Create cutting-edge immersive experiences using extended reality, augmented reality, and virtual reality technologies that transform user engagement.",
-    image: "/images/services-details/xr-ar-vr.jpg",
-    features: [
-      "Virtual Reality (VR) applications",
-      "Augmented Reality (AR) experiences",
-      "Mixed Reality (MR) solutions",
-      "3D modeling & environment design",
-      "Interactive simulations",
-      "Training & educational applications",
-      "Marketing & visualization tools",
-      "Cross-platform XR deployment"
-    ],
-    technologies: ["Unity", "Unreal Engine", "ARKit", "ARCore", "Oculus SDK", "HoloLens", "WebXR"],
-    process: "We create immersive experiences through careful planning, 3D design, development, and thorough testing across different XR platforms to ensure optimal user experiences."
-  },
+  // "game-development": {
+  //   title: "Game Development",
+  //   subtitle: "Unity & Unreal Engine Game Creation",
+  //   description: "Develop engaging, high-performance games for mobile, PC, and console platforms using industry-leading engines and cutting-edge technologies.",
+  //   image: "/images/services-details/game-development.jpg",
+  //   features: [
+  //     "2D & 3D game development",
+  //     "Multi-platform game deployment",
+  //     "Game mechanics & physics implementation",
+  //     "Character design & animation",
+  //     "Multiplayer functionality",
+  //     "In-app purchases & monetization",
+  //     "Performance optimization",
+  //     "Game analytics & user retention"
+  //   ],
+  //   technologies: ["Unity", "Unreal Engine", "C#", "C++", "Blender", "Photoshop", "Firebase", "PlayFab"],
+  //   process: "From concept to launch, we handle all aspects of game development including design, development, testing, and post-launch support to ensure your game succeeds in the market."
+  // },
+  // "xr-ar-vr-experiences": {
+  //   title: "XR/AR/VR Experiences",
+  //   subtitle: "Immersive Reality Solutions",
+  //   description: "Create cutting-edge immersive experiences using extended reality, augmented reality, and virtual reality technologies that transform user engagement.",
+  //   image: "/images/services-details/xr-ar-vr.jpg",
+  //   features: [
+  //     "Virtual Reality (VR) applications",
+  //     "Augmented Reality (AR) experiences",
+  //     "Mixed Reality (MR) solutions",
+  //     "3D modeling & environment design",
+  //     "Interactive simulations",
+  //     "Training & educational applications",
+  //     "Marketing & visualization tools",
+  //     "Cross-platform XR deployment"
+  //   ],
+  //   technologies: ["Unity", "Unreal Engine", "ARKit", "ARCore", "Oculus SDK", "HoloLens", "WebXR"],
+  //   process: "We create immersive experiences through careful planning, 3D design, development, and thorough testing across different XR platforms to ensure optimal user experiences."
+  // },
   "enterprise-software": {
     title: "Enterprise Software",
     subtitle: "Custom Business Applications & Systems",

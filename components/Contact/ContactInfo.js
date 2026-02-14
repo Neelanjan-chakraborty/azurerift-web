@@ -11,8 +11,8 @@ const ContactInfo = () => {
                 <i className="bx bx-envelope"></i>
                 <h3>Email Us:</h3>
                 <p>
-                  <a href="mailto:neelanjan.chakraborty@azurerift.in">
-                    neelanjan.chakraborty@azurerift.in
+                  <a href="mailto:support@azurerift.in">
+                    support@azurerift.in
                   </a>
                 </p>
               </div>
@@ -23,7 +23,7 @@ const ContactInfo = () => {
                 <i className="bx bx-phone-call"></i>
                 <h3>Call Us:</h3>
                 <p>
-                  Tel. + <a href="tel:+918455678901">+91 8455678901</a>
+                  Tel. + <a href="tel:+918455678901">+91 9083080448</a>
                 </p>
               </div>
             </div>
@@ -31,8 +31,8 @@ const ContactInfo = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="single-contact-info">
                 <i className="bx bx-location-plus"></i>
-                <h3>Bangalore</h3>
-                <p>456, Brigade Road, Bangalore, Karnataka, India</p>
+                <h3>Hyderabad</h3>
+                <p>456, Hitec City, Hyderabad, Telangana, India</p>
               </div>
             </div>
 

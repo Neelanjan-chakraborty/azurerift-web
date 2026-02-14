@@ -91,7 +91,7 @@ const ServicesStyleTwo = () => {
               </div>
             </div>
 
-            <div className="col-lg-4 col-sm-6">
+            {/* <div className="col-lg-4 col-sm-6">
               <div className="single-offer">
                 <i className="flaticon-game-development"></i>
                 <h3>
@@ -119,7 +119,7 @@ const ServicesStyleTwo = () => {
                   that transform user engagement and create unforgettable experiences.
                 </p>
               </div>
-            </div>
+            </div> */}
 
             <div className="col-lg-4 col-sm-6">
               <div className="single-offer">
