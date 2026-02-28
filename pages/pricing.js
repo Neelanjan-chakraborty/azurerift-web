@@ -17,7 +17,7 @@ export default function PricingPage() {
         activePageText="Pricing"
       />
 
-      <PricingStyleOne />
+      {/* <PricingStyleOne /> */}
 
       <div className="bg-fafafa">
         <MakeYourBusiness />

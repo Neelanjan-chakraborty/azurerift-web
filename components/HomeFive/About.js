@@ -26,7 +26,7 @@ const About = () => {
                   AzureRift Technologies is a multi-domain technology company building intelligent, scalable, and future-ready digital solutions. We specialize in mobile and web applications, AI-driven platforms, cloud engineering, immersive technologies, and interactive experiences designed to help businesses innovate and accelerate growth.
                 </p>
                 <p>
-                  Our team blends engineering excellence with creative problem-solving. We partner with clients to design and deliver robust, intuitive, and high-performance solutions that address real-world challenges.
+                  We are an IT consultancy and computer facilities management firm first—not just a development shop. We provide full-lifecycle technical assistance, from strategic planning and systems analysis to the design, implementation, and maintenance of robust IT infrastructures. We architect bespoke software, integrate complex systems and databases, and manage scalable cloud computing environments. Our expertise spans enterprise mobile applications, backend web systems, artificial intelligence, data analytics, and cybersecurity solutions. We are objective technology partners focused on engineering excellence, network integrity, and delivering future-proof solutions that meet specific business objectives.
                 </p>
 
                 <div className="row">
@@ -49,14 +49,14 @@ const About = () => {
 
                   <div className="col-lg-6 col-sm-6">
                     <ul>
-                      <li>
+                      {/* <li>
                         <i className="flaticon-checked"></i>
                         Game Development
                       </li>
                       <li>
                         <i className="flaticon-checked"></i>
                         XR/AR/VR Experiences
-                      </li>
+                      </li> */}
                       <li>
                         <i className="flaticon-checked"></i>
                         Enterprise Software

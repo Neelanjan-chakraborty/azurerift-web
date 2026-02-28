@@ -59,13 +59,13 @@ const WhatWeOffer = () => {
                     </span>
                   </li>
 
-                  <li onClick={(e) => openTabSection(e, "tab3")}>
+                  {/* <li onClick={(e) => openTabSection(e, "tab3")}>
                     <span>
                       <i className="flaticon-health"></i>
                       <h3>Games & XR</h3>
                       <p>Immersive Experiences</p>
                     </span>
-                  </li>
+                  </li> */}
 
                   <li onClick={(e) => openTabSection(e, "tab4")}>
                     <span>

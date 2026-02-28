@@ -32,11 +32,11 @@ export default function Index3Page() {
 
       <MakeYourBusiness />
 
-      <WhatWeOffer />
+      {/* <WhatWeOffer /> */}
 
       <CaseStudies />
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
       <Faq />
 

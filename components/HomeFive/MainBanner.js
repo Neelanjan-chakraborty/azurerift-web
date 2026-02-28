@@ -91,9 +91,9 @@ const MainBanner = () => {
                     <div className="jumpx-slider-text overflow-hidden three">
                       <span>Immersive Technologies</span>
                       <h1>Creating Tomorrow's Digital & Immersive Worlds Today</h1>
-                      <p>
+                      {/* <p>
                         Specializing in game development, XR/AR/VR experiences, and interactive simulations that transform how people engage with technology.
-                      </p>
+                      </p> */}
 
                       <div className="slider-btn">
                         <Link href="/services" className="default-btn active">

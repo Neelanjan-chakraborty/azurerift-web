@@ -32,15 +32,15 @@ export default function Index2Page() {
 
       <MakeYourBusiness />
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
-      <WhatWeOffer />
+      {/* <WhatWeOffer /> */}
 
       <News />
 
-      <div className="pb-50">
+      {/* <div className="pb-50">
         <Partner />
-      </div>
+      </div> */}
 
       <Footer />
     </>

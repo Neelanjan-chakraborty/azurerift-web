@@ -65,7 +65,7 @@ const CaseStudies = () => {
 
                 <h3>
                   <Link href="/case-studies/case-studies-details">
-                    Enterprise Mobile App
+                    Enterprise App
                   </Link>
                 </h3>
               </div>
@@ -98,7 +98,7 @@ const CaseStudies = () => {
               </div>
             </SwiperSlide>
 
-            <SwiperSlide>
+            {/* <SwiperSlide>
               <div className="case-wrap">
                 <div className="single-case">
                   <Image
@@ -123,7 +123,7 @@ const CaseStudies = () => {
                   </Link>
                 </h3>
               </div>
-            </SwiperSlide>
+            </SwiperSlide> */}
 
             <SwiperSlide>
               <div className="case-wrap">
@@ -146,7 +146,7 @@ const CaseStudies = () => {
 
                 <h3>
                   <Link href="/case-studies/case-studies-details">
-                    Unity Game Development
+                    UI/UX Design & Development
                   </Link>
                 </h3>
               </div>

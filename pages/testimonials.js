@@ -16,7 +16,7 @@ export default function TestimonialsPage() {
         activePageText="Testimonials"
       />
 
-      <TestimonialsContent />
+      {/* <TestimonialsContent /> */}
 
       <Footer />
     </>

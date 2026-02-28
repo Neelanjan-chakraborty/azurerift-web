@@ -30,11 +30,11 @@ export default function Index5Page() {
 
       <MakeYourBusiness />
 
-      <WhatWeOffer />
+      {/* <WhatWeOffer /> */}
 
       <CaseStudies />
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
       <Faq />
 

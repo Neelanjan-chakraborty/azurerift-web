@@ -18,14 +18,14 @@ const servicesData = [
     viewDetails: "/services/service-details/",
     aosDelay: "100",
   },
-  {
-    iconName: "flaticon-vr",
-    title: "XR, AR & VR Experiences",
-    shortText:
-      "Immersive extended reality, augmented reality, and virtual reality solutions that transform how users interact with digital content.",
-    viewDetails: "/services/service-details/",
-    aosDelay: "200",
-  },
+  // {
+  //   iconName: "flaticon-vr",
+  //   title: "XR, AR & VR Experiences",
+  //   shortText:
+  //     "Immersive extended reality, augmented reality, and virtual reality solutions that transform how users interact with digital content.",
+  //   viewDetails: "/services/service-details/",
+  //   aosDelay: "200",
+  // },
   {
     iconName: "flaticon-blockchain",
     title: "Cloud Integration & Backend",
@@ -42,14 +42,14 @@ const servicesData = [
     viewDetails: "/services/service-details/",
     aosDelay: "400",
   },
-  {
-    iconName: "flaticon-choice",
-    title: "Game Development",
-    shortText:
-      "Unity and Unreal Engine game development for mobile, PC, and console platforms with engaging gameplay and stunning visuals.",
-    viewDetails: "/services/service-details/",
-    aosDelay: "500",
-  },
+  // {
+  //   iconName: "flaticon-choice",
+  //   title: "Game Development",
+  //   shortText:
+  //     "Unity and Unreal Engine game development for mobile, PC, and console platforms with engaging gameplay and stunning visuals.",
+  //   viewDetails: "/services/service-details/",
+  //   aosDelay: "500",
+  // },
   {
     iconName: "flaticon-deep-learning",
     title: "Enterprise Software",

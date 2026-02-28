@@ -1,98 +1,190 @@
-import React from "react"; 
+import React from "react";
 
 const TermsAndConditionsContent = () => {
   return (
     <>
       <div className="text-container ptb-100">
         <div className="container">
-          <h3>What is lorem ipsum?</h3>
 
-          <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s
-            with the release of Letraset sheets containing Lorem Ipsum passages,
-            and more recently with desktop publishing software like Aldus
-            PageMaker including versions of Lorem Ipsum.
-          </p>
+          <p>Welcome to AzureRift. These Terms & Conditions ("Terms") govern your use of our website, services, and any engagement with AzureRift ("we," "our," or "us"), a company registered in India providing computer consultancy and computer facilities management activities.</p>
 
-          <h3>Where does it come from?</h3>
-          <p>
-            Contrary to popular belief, Lorem Ipsum is not simply random text.
-            It has roots in a piece of classical Latin literature from 45 BC,
-            making it over 2000 years old. Richard McClintock, a Latin professor
-            at Hampden-Sydney College in Virginia, looked up one of the more
-            obscure Latin words, consectetur, from a Lorem Ipsum passage, and
-            going through the cites of the word in classical literature,
-            discovered the undoubtable source. Lorem Ipsum comes from sections
-            1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes
-            of Good and Evil) by Cicero, written in 45 BC. This book is a
-            treatise on the theory of ethics, very popular during the
-            Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit
-            amet..".
-          </p>
+          <p>By accessing our website or availing any of our services, you agree to be bound by these Terms. If you do not agree, please refrain from using our services.</p>
 
-          <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-            aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est,
-            qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore
-            magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-            nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut
-            aliquid ex ea commodi consequatur? Quis autem vel eum iure
-            reprehenderit qui in ea voluptate velit esse quam nihil molestiae
-            consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla
-          </p>
+          <h3>1. Services Overview</h3>
+          <p>AzureRift provides the following services as per its Memorandum of Association:</p>
+          <ul>
+            <li><strong>Computer Consultancy & IT Advisory:</strong> Strategic advice, technical assistance, and consultancy in the design, development, implementation, operation, and maintenance of computer systems, hardware, software, and IT infrastructure.</li>
+            <li><strong>Custom Software Development:</strong> Writing, modifying, testing, and adapting computer software and programs to meet specific client requirements, including custom software solutions, systems integration, data processing, and application development.</li>
+            <li><strong>Computer Facilities Management:</strong> Full-lifecycle management of IT facilities, including systems analysis, programming, database management, network operations, and cloud-based computing services.</li>
+            <li><strong>Cloud & Data Services:</strong> Cloud computing, server management, data storage, processing, retrieval, data analytics, and IT-enabled services.</li>
+            <li><strong>Network Security & Cybersecurity:</strong> Implementation and management of network security, cybersecurity solutions, and technical support services.</li>
+            <li><strong>Portal & Platform Operations:</strong> Establishment, maintenance, and operation of websites, portals, and online platforms acting as gateways to the Internet, including media sites with periodically updated content and digital publishing services.</li>
+            <li><strong>Note:</strong> AzureRift does <strong>not</strong> provide web-page designing services, as explicitly excluded in our MOA.</li>
+          </ul>
+          <p>Specific terms for each project or engagement will be outlined in separate Statements of Work (SOW), Service Agreements, or Order Confirmations.</p>
 
-          <h3>Where can I get some?</h3>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim.
-          </p>
+          <h3>2. Client Responsibilities</h3>
+          <p>To enable us to deliver our services effectively, you agree to:</p>
+          <ul>
+            <li>Provide accurate, complete, and timely project requirements, feedback, and approvals.</li>
+            <li>Grant access to necessary systems, servers, third-party APIs, or resources required for project execution.</li>
+            <li>Cooperate fully with our team and respond promptly to requests for information or decisions.</li>
+            <li>Maintain the confidentiality of any access credentials, accounts, or systems provided to you.</li>
+            <li>Ensure that all materials, data, or content you provide comply with applicable laws and do not infringe third-party rights.</li>
+            <li>Obtain and maintain any licenses, consents, or permissions required for your use of our services.</li>
+          </ul>
+          <p>We are not liable for delays or failures caused by your non-compliance with these responsibilities.</p>
 
-          <p>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don't look even slightly
-            believable. If you are going to use a passage of Lorem Ipsum, you
-            need to be sure there isn't anything embarrassing hidden in the
-            middle of text. All the Lorem Ipsum generators on the Internet tend
-            to repeat predefined chunks as necessary, making this the first true
-            generator on the Internet. It uses a dictionary of over 200 Latin
-            words, combined with a handful of model sentence structures, to
-            generate Lorem Ipsum which looks reasonable. The generated Lorem
-            Ipsum is therefore always free from repetition, injected.
-          </p>
+          <h3>3. Intellectual Property Rights</h3>
+          <ul>
+            <li><strong>3.1 Ownership of Deliverables</strong>
+              <ul>
+                <li>Upon full payment of all applicable fees, and unless otherwise agreed in writing, you will own the final deliverables specifically developed for you under a project (e.g., custom software code, applications).</li>
+                <li>AzureRift retains the right to reuse general-purpose libraries, frameworks, methodologies, and tools developed prior to or independently of your project.</li>
+              </ul>
+            </li>
+            <li><strong>3.2 AzureRift Intellectual Property</strong>
+              <ul>
+                <li>All intellectual property rights in our pre-existing materials, including but not limited to methodologies, source code, documentation, templates, algorithms, and proprietary software, remain solely with AzureRift.</li>
+              </ul>
+            </li>
+            <li><strong>3.3 License to Use</strong>
+              <ul>
+                <li>Where full ownership is not transferred, we grant you a non-exclusive, non-transferable, perpetual license to use the deliverables for their intended purpose.</li>
+              </ul>
+            </li>
+            <li><strong>3.4 Portfolio Rights</strong>
+              <ul>
+                <li>We reserve the right to showcase completed projects in our portfolio, case studies, or marketing materials, unless you request confidentiality in writing.</li>
+              </ul>
+            </li>
+          </ul>
 
-          <p>
-            But I must explain to you how all this mistaken idea of denouncing
-            pleasure and praising pain was born and I will give you a complete
-            account of the system, and expound the actual teachings of the great
-            explorer of the truth, the master-builder of human happiness. No one
-            rejects, dislikes, or avoids pleasure itself, because it is
-            pleasure, but because those who do not know how to pursue pleasure
-            rationally encounter consequences that are extremely painful. Nor
-            again is there anyone who loves or pursues or desires to obtain pain
-            of itself, because it is pain, but because occasionally
-            circumstances occur in which toil and pain can procure him some
-            great pleasure. To take a trivial example, which of us ever
-            undertakes laborious physical exercise, except to obtain some
-            advantage from it? But who has any right to find fault with a man
-            who chooses to enjoy a pleasure that has no annoying consequences,
-            or one who avoids a pain that
-          </p>
+          <h3>4. Confidentiality</h3>
+          <p>Both parties agree to treat as confidential all proprietary information disclosed during the course of any project or engagement ("Confidential Information"). Confidential Information shall not be disclosed to third parties without prior written consent, except as required by law.</p>
+          <p>This obligation survives the termination of any agreement between us.</p>
+
+          <h3>5. Payment Terms</h3>
+          <ul>
+            <li><strong>5.1 Fees and Invoicing</strong>
+              <ul>
+                <li>Fees for services will be as outlined in the applicable SOW, project agreement, or invoice.</li>
+                <li>Invoices are payable within the timeframe specified (typically [15/30] days from invoice date).</li>
+                <li>All fees are exclusive of applicable taxes (GST, withholding tax, etc.), which shall be borne by you.</li>
+              </ul>
+            </li>
+            <li><strong>5.2 Late Payments</strong>
+              <ul>
+                <li>If payment is not received by the due date, we reserve the right to charge interest at 1.5% per month (18% per annum) on overdue amounts.</li>
+                <li>We may suspend service delivery or access to deliverables until full payment is received.</li>
+                <li>Continued delay may result in termination of the project.</li>
+              </ul>
+            </li>
+            <li><strong>5.3 Refund Policy</strong>
+              <ul>
+                <li>No refunds shall be provided once work on a project has commenced, as services are professional in nature and time is allocated upon engagement.</li>
+                <li>For fixed-price projects, payments are non-refundable after the project start date.</li>
+                <li>In case of service cancellation by you, fees for work completed up to the date of cancellation shall be payable.</li>
+              </ul>
+            </li>
+          </ul>
+
+          <h3>6. Warranties and Disclaimers</h3>
+          <ul>
+            <li><strong>6.1 Our Warranty</strong>
+              <ul>
+                <li>We warrant that our services will be performed with reasonable skill and care, in accordance with prevailing professional standards.</li>
+              </ul>
+            </li>
+            <li><strong>6.2 Disclaimer</strong>
+              <ul>
+                <li>Except as expressly stated, our services and deliverables are provided on an "as is" basis. We make no warranties regarding:
+                  <ul>
+                    <li>Uninterrupted or error-free operation of software or systems.</li>
+                    <li>Fitness for a particular purpose unless explicitly agreed in writing.</li>
+                    <li>Compatibility with third-party systems not specified in the project scope.</li>
+                  </ul>
+                </li>
+                <li>We do not guarantee specific business outcomes, revenue increases, or cost savings resulting from our services.</li>
+              </ul>
+            </li>
+          </ul>
+
+          <h3>7. Limitation of Liability</h3>
+          <p>To the maximum extent permitted by applicable law:</p>
+          <ul>
+            <li>AzureRift shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to loss of profits, data, business opportunities, or goodwill, even if advised of the possibility of such damages.</li>
+            <li>Our total liability arising out of or related to these Terms or any project, whether in contract, tort, or otherwise, shall not exceed the total fees paid by you to us in the twelve (12) months preceding the event giving rise to the liability.</li>
+            <li>This limitation does not apply to liability arising from fraud, gross negligence, willful misconduct, or death/personal injury caused by negligence.</li>
+          </ul>
+
+          <h3>8. Third-Party Services and Integrations</h3>
+          <p>Our solutions may involve integration with third-party platforms, APIs, or services (e.g., cloud providers, payment gateways, analytics tools). We are not responsible for:</p>
+          <ul>
+            <li>The performance, availability, or security of third-party services.</li>
+            <li>Changes to third-party APIs or terms that affect our deliverables.</li>
+            <li>Any data loss or issues arising from third-party systems.</li>
+          </ul>
+          <p>You are responsible for complying with the terms of service of any third-party providers you engage.</p>
+
+          <h3>9. Termination</h3>
+          <ul>
+            <li><strong>9.1 Termination by Either Party</strong>
+              <ul>
+                <li>Either party may terminate a project or agreement with written notice if the other party commits a material breach and fails to remedy it within [30] days of receiving written notice.</li>
+              </ul>
+            </li>
+            <li><strong>9.2 Termination by AzureRift</strong>
+              <ul>
+                <li>We may suspend or terminate services immediately if:
+                  <ul>
+                    <li>You fail to make payments when due.</li>
+                    <li>You violate these Terms or any applicable law.</li>
+                    <li>You engage in fraudulent, abusive, or illegal activities.</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li><strong>9.3 Effect of Termination</strong>
+              <ul>
+                <li>Upon termination:
+                  <ul>
+                    <li>You shall pay all fees due for work completed up to the termination date.</li>
+                    <li>AzureRift shall deliver any completed deliverables for which payment has been received.</li>
+                    <li>Confidentiality and limitation of liability provisions shall survive termination.</li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+
+          <h3>10. Data Processing and Security</h3>
+          <p>Where we process data on your behalf as part of our services:</p>
+          <ul>
+            <li>You retain all ownership and responsibility for your data.</li>
+            <li>We will process data only in accordance with your instructions and as necessary to provide the services.</li>
+            <li>We implement reasonable technical and organizational measures to protect data against unauthorized access, loss, or disclosure.</li>
+            <li>However, we are not liable for data breaches caused by factors beyond our reasonable control, including your security practices or third-party failures.</li>
+            <li>For cloud and data storage services, you are responsible for maintaining your own backups. We do not guarantee data recovery in all circumstances.</li>
+          </ul>
+
+          <h3>11. Governing Law and Dispute Resolution</h3>
+          <ul>
+            <li>These Terms shall be governed by and construed in accordance with the laws of India.</li>
+            <li>Any disputes arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts in <strong>Hyderabad</strong>, India.</li>
+          </ul>
+
+          <h3>12. Amendments</h3>
+          <p>We reserve the right to update or modify these Terms at any time. Changes will be effective upon posting to our website with an updated "Last Updated" date. Your continued use of our services after such changes constitutes acceptance of the revised Terms.</p>
+
+          <h3>13. Contact Us</h3>
+          <p>If you have any questions regarding these Terms & Conditions, please contact us at:</p>
+          <ul>
+            <li><strong>AzureRift</strong></li>
+            <li><strong>Email:</strong> support@azurerift.com</li>
+            <li><strong>Phone:</strong> +91 9083080448</li>
+            <li><strong>Website:</strong> https://azurerift.in</li>
+          </ul>
         </div>
       </div>
     </>

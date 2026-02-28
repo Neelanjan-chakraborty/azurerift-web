@@ -22,7 +22,7 @@ export default function ServicesPage() {
 
       <MakeYourBusiness />
 
-      <WhatWeOffer />
+      {/* <WhatWeOffer /> */}
 
       <Footer />
     </>

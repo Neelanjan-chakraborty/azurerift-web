@@ -8,15 +8,17 @@ export default function TeamPage() {
   return (
     <>
       <Navbar />
-
+    
+      
       <PageBanner
         pageTitle="Team"
         homePageUrl="/"
         homePageText="Home"
         activePageText="Team"
       />
+      
 
-      <TeamCard />
+      {/* <TeamCard /> */}
 
       <Footer />
     </>

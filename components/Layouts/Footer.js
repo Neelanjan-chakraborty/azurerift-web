@@ -165,14 +165,14 @@ const Footer = () => {
                   <li className="address">
                     <i className="flaticon-call"></i>
                     <span>Phone</span>
-                    <a href="tel:+918455678901">+91 8455678901</a>
+                    <a href="tel:+918455678901">+91 9083080448</a>
                   </li>
 
                   <li className="address">
                     <i className="flaticon-envelope"></i>
                     <span>Email</span>
                     <a href="mailto:neelanjan.chakraborty@azurerift.in">
-                      neelanjan.chakraborty@azurerift.in
+                      support@azurerift.in
                     </a>
                   </li>
 
@@ -219,10 +219,7 @@ const Footer = () => {
             <div className="col-lg-3">
               <div className="designed">
                 <p>
-                  Designed By <i className="bx bx-heart"></i>{" "}
-                  <a href="https://neelanjanchakraborty.in/" target="_blank">
-                    Neelanjan Chakraborty
-                  </a>
+                 Made in India with <i className="bx bxs-heart"></i> by Azurerift Technologies
                 </p>
               </div>
             </div>

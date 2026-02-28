@@ -33,13 +33,13 @@ export default function Index4Page() {
 
         <MakeYourBusiness />
 
-        <WhatWeOffer />
+        {/* <WhatWeOffer /> */}
 
         <CaseStudies />
 
         <Team />
 
-        <Testimonials />
+        {/* <Testimonials /> */}
 
         <Faq />
 
